@@ -1,0 +1,777 @@
+Video ID,Title,Published Date,Description,Tags,Category ID,Duration,Views,Likes,Comments
+9nt4oYZAu6Q,Just in from the news desk 📰: The debut of DolphinGemma,2025-04-18T20:32:39Z,"Yes, It’s for real. We’re charting into the realm of interspecies communication. Today, we announce DolphinGemma, our wavebreaking new large language model! Built using Google's advanced AI technology, DolphinGemma functions as an audio-in, audio-out model, processes sequences of natural dolphin sounds to identify patterns, structure, and ultimately predict the likely subsequent sounds in a sequence, much like how large language models for human language predict the next word or token in a sentence. Trained with 40 years of dolphin research from the Wild Dolphin Project’s Dr. Denise Herzing and technical expertise from researchers at Georgia Tech, this model marks our first splash towards interspecies communication! 
+
+Resources: 
+Learn more →  goo.gle/DolphinGemma
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Gemma, Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT46S,2410,97,3
+A7lWKDloHmY,POV: You’re prepping for #GoogleIO,2025-04-17T16:00:26Z,"Building the future starts bright and early with an iced coffee hand dunk, rower sprints, a banana power-up, and a deep dive into last year's I/O keynote.
+
+Resources: 
+Learn more about Google I/O →https://goo.gle/io2025-yt
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: I/O ;', 'ct: ; ;', 'gds:Yes;']",28,PT53S,7178,134,13
+44C8u0CDtSo,Getting started with Agent Development Kit,2025-04-16T23:00:04Z,"Ready to build your first AI agent with ADK? This video simplifies the process using Google's open-source Agent Development Kit (ADK). Follow along as we guide you through the initial steps, demonstrating ADK's intuitive code-first framework. Learn the fundamentals of agent definition, essential concepts like the Runner and Services, and how easily you can run and debug your agent locally using the built-in web UI (adk web) or CLI (adk run). We'll build a sample YouTube Shorts agent to get you started quickly.
+
+Chapters: 
+0:00 - Intro 
+0:26 - What is ADK?
+1:17 - Sample agent architecture 
+2:28 - LLM Agent 
+6:30 - Different ways to run the ADK Agent 
+7:11 - ADK run
+7:50 - ADK web 
+9:33 - Different types of Agents 
+10:50 - Loop Agent: 
+12:06 - Testing Loop Agent:  
+13:20 - Runner, Services and Event loop 
+16:17 - Run your agent programmatically 
+18:00 - Recap 
+
+Resources: 
+Get Started → https://google.github.io/adk-docs
+Sample Agents → https://goo.gle/3Rbdo4s 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products mentioned: Agent Development Kit","['Google', 'developers']",28,PT18M45S,30109,1063,60
+vLHwDTNfxdE,Build an agent-powered travel planning app with Generative AI,2025-04-16T21:36:56Z,"Learn how to use Flutter and Firebase Genkit to build multi-platform apps that can seamlessly integrate with AI.
+
+Resources:
+
+Check out these solutions → https://goo.gle/4hTcpAT 
+
+Subscribe to Google for Developers → https://goo.gle/developers
+
+
+Speaker: Tom Greenaway
+Products Mentioned: Firebase, Google Cloud","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:Yes;']",28,PT5M,6173,175,8
+X_1zsJfYLMA,Building Agentic apps with Firebase and Google Cloud,2025-04-16T16:00:04Z,"Learn how to build an agentic coffee ordering agent with Firebase and Google Cloud.
+
+Resources:
+
+Check out the solution → https://goo.gle/3QMpf8X 
+
+Subscribe to Google for Developers → https://goo.gle/developers
+
+Speaker: Emma Twersky 
+Products Mentioned: Firebase, Google Cloud","['Google', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:Yes;']",28,PT4M11S,8815,300,16
+eGsKwMSA6Ic,“Why is my website loading so slowly?”,2025-04-16T04:00:49Z,"There are MANY reasons why your website may have high latency. Overcaching? Versioning?  See what solutions work for your website. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Meg Bauman","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT1M3S,4339,295,17
+5e13FdKeTsE,New Google Pay button for Flutter?,2025-04-15T04:00:04Z,"The latest version on the Pay package for Flutter is here! See how you can increase conversions in your check out forms. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+Speaker: Jose Ugia 
+Products Mentioned: Google Pay","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT1M1S,3957,224,2
+QhhZt1wUtyo,Why are these login counts incorrect? Can you identify the problem? Go!,2025-04-14T13:00:45Z,"Find the problem in this simple query. Here's our scenario: Your global application is tracking user logins, but the numbers don't match what users are seeing. What's going wrong? Share your solution in the comments.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Amanda Stanton","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ;;', 'gds:Yes;']",28,PT26S,5911,127,15
+SqmOgdvfvSk,Unique challenges that mobile devs face? How is Android helping?,2025-04-12T04:00:23Z,"Get a glimpse into the common woes mobile devs face, and also get sneak peak at how Android is helping devs get a better end user experience. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Simon Cooke 
+Products Mentioned: Android","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT46S,4580,122,2
+OMwlK_5iRRc,Google Developer Experts build more with Google AI,2025-04-11T22:57:35Z,"See real examples of Google AI through the eyes of Google Developer Experts (GDEs) from around the globe. In this video, you'll see what these community leaders have built using Gemini and Google Cloud technologies, like a command line generator, code reviewer, and a blood pressure tracker. All GDEs are part of the Google Developer Program, where they can access exclusive resources and take their AI skills to the next level. If you're interested in bringing your vision to life with Google AI like GDEs, check out the Google Developer Program. 
+
+Resources: 
+Check out the Google Developer Program → https://goo.gle/42hle1A
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'Tags\npr_pr: Google Developer Groups;', 'Purpose: Learn;', 'Video Type:Trailer/Promo;', 'ct: ; ;', 'gds:N/A;']",28,PT1M48S,3298,59,7
+K5T77Fbu70w,What is the Android Dynamic Preference Framework (ADPF)?,2025-04-11T04:00:32Z,"Overheating ruining your game? Get ready for a better game development experience thanks to the Android Dynamic Performance Framework. Optimize performance and ensure smooth gameplay. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Nate Trost 
+Products Mentioned: Android","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT26S,10599,211,5
+6WmvE6rH3jA,What is the Agent Development Kit (ADK)?,2025-04-10T19:59:43Z,"Stop wrestling with complex AI agents! 🤯 Google's new open-source Agent Development Kit (ADK) simplifies building multi-modal & multi-agent systems.
+
+Resources:
+Get Started → https://google.github.io/adk-docs
+Sample Agents → https://goo.gle/3Rbdo4s 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+#ADK #AIAgents #GoogleAI","['Google', 'developers', 'pr_pr: Google Cloud Tech;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:Social First - Educational;', 'ct: ; ;', 'gds:N/A;']",28,PT49S,19820,638,12
+eE_aD5QAgN4,"Build a multimodal, multi-agent with ADK in 37 lines of code",2025-04-10T19:59:25Z,"🤯 Multi-Agent, Multimodal AI in 37 Lines?! (ADK)
+
+Build complex AI agents FAST! See how Agent Development Kit (ADK) creates a multi-agent, multimodal system in just 37 lines of code. Simplify your AI dev!
+
+Get Started → https://google.github.io/adk-docs
+Sample Agents → https://goo.gle/3Rbdo4s 
+
+#ADK #AIAgents #GoogleAI","['Google', 'developers', 'pr_pr: Google Cloud Tech;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:Social First - Educational;', 'ct: ; ;', 'gds:N/A;']",28,PT1M17S,27445,1073,15
+zgrOwow_uTQ,Introducing Agent Development Kit,2025-04-10T19:59:09Z,"Building complex, production-ready AI agents, especially multi-modal or multi-agent systems, can be challenging. Introducing the Agent Development Kit (ADK), a new open-source project from Google designed to simplify this process based on Google's internal experience. ADK provides a powerful, open foundation (model-agnostic, deployment-agnostic, interoperable) that makes agent development feel like software development, complete with native multi-modal streaming and easy local debugging via a built-in UI.
+
+Watch Product Manager Anand Iyer, Tech Lead Bo Yang, and Developer Advocate, Ivan Nardini introduce ADK and demo building a multi-agent, multi-modal travel planner quickly using the SDK. Learn about the core design principles and see how you can get started building your own sophisticated AI agents today.
+
+Resources: 
+Get Started → https://google.github.io/adk-docs
+Sample Agents → https://goo.gle/3Rbdo4s 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Anand Iyer, Bo Yang, Ivan Nardini 
+Products mentioned: Agent Development Kit","['Google', 'developers', 'Agent Development Kit', 'ADK', 'AI Agents', 'Build AI Agents', 'Multi-modal Agents', 'Multi-agent Systems', 'Open Source AI', 'AI SDK', 'Agent Framework', 'Google AI', 'Generative AI', 'LLM Agents', 'Large Language Models', 'Gemini', 'Agent Development', 'Interactive AI', 'Real-time AI""', 'pr_pr: Google Cloud Tech;', 'Purpose: Learn;', 'Video Type:Trailer/Promo;', 'ct: ; ;', 'gds:N/A;']",28,PT8M48S,204462,6492,317
+3Vcy2jIf74k,Just in from the news desk 📰: Introducing the Google Developer Program,2025-04-10T16:00:06Z,"In this short, we’re excited to announce the new Google Developer Program - a central hub for all developer working across Google’s products. This program gives you the opportunity to connect with others, grow your skills, and most importantly build solutions and community! 
+
+Resources:
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google Developer Program","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT59S,10437,385,4
+qV96Aeuqv6c,First day back after OOO 👀,2025-04-10T04:00:49Z,"The pings never stop after OOO. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT20S,9193,127,3
+h489hYQCt0s,The Google Developer Program,2025-04-09T12:39:35Z,"The Google Developer Program is here to empower you on your journey to learn, build, and grow with Google technologies. Whether you're just starting out or an experienced professional, gain access to a comprehensive suite of resources, tools, and a thriving community designed to help you succeed.
+
+Learn more → https://goo.gle/42hle1A 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google Developer Program","['Google', 'developers']",28,PT1M1S,19567,408,13
+V5f7F9ikvWU,When Ctrl+Z is not working….😵‍💫,2025-04-09T04:00:32Z,"Ctrl+Z: A developer’s safety net – until it isn’t. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT10S,13341,127,11
+FezRQSyrvYQ,“Has AI changed the way you work at Google?”,2025-04-08T23:00:12Z,"By leveraging Gemini and AppScript, Dan Galpin is able to streamline work across Android teams – because the more we automate, the more we can code.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Dan Galpin 
+Products Mentioned: Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT43S,6148,142,2
+AfssOYdS0j4,Gemma in Minutes: 3 ways to run Gemma’s latest version!,2025-04-08T20:00:06Z,"Learn how to set up and run Gemma 3 with Keras, Ollama and via API in only a few minutes.
+
+Chapters:
+00:00 Introduction
+1:05 Calling the API
+1:58 Running on Keras
+4:33 Running with Ollama
+
+Resources:
+Gemma documentation → https://goo.gle/406JjIM
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+Speaker: Marina Coelho
+Products mentioned: Gemma, Google AI Studio","['Google', 'developers', 'Purpose: Educate', 'Series: Gemma3 Launch', 'google developers', 'AI', 'Gemma', 'GDS: Yes', 'pr_pr: Google AI for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:Yes;', 'developer', 'ct: AIG;', 'Gemma 3', ""how to quickly set up and run Google's Gemma 3"", 'how to run Gemma 3 with Keras']",28,PT6M31S,12360,500,17
+VZQkjO-01pI,Android Studio tools 🤝 Efficient debugging,2025-04-08T01:00:20Z,"Is Jetpack Compose your go-to for Android UI? Google Engineer Paris Hsu highlights how Android Studio's Compose Preview and Layout Inspector can save you time debugging. Nail those different configurations and accessibility issues! 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Paris Hsu 
+Products Mentioned: Android","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT59S,4286,140,4
+Qicj1sWeMmo,Can you find the bug and explain why TypeScript isn’t catching it? Go!,2025-04-07T13:00:40Z,"Hey friends, it’s TypeScript challenge time! This generic function should return the last item of any array. It looks simple, but something's not working as expected here. Can you find the bug AND explain why TypeScript isn't catching it? Bonus points if you can propose a fix that makes it completely type-safe! Share your skills in the comments!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+Speakers: M.E. Francis","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ;;', 'gds:Yes;']",28,PT21S,7777,133,14
+tlyV-uUuvAc,Running Gemma on Mac and Windows PCs with Ollama,2025-04-04T23:49:49Z,"Discover how you can run Gemma on Mac and Windows PC using Ollama, from its co-founders Michael Chiang and Jeffrey Morgan. You'll learn how to easily take advantage of Gemma 3's impressive speed and ease of use via Ollama's intuitive interface, and how Ollama can also deploy these models on Google Cloud for scalable access. Learn how to leverage powerful AI, locally and in the cloud, with Ollama. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speakers: Michael Chiang, Jeffrey Morgan
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT8M58S,12140,334,19
+ArhlS_9Bpkk,Let’s rewind it back to Google IO ‘24,2025-04-03T16:08:15Z,"Get ready for #GoogleIO May 20-21, where we'll unveil the latest innovations to supercharge your development workflow. ✨
+
+Learn more → https://goo.gle/io2025-yt 
+
+Looking back at I/O '24, we saw groundbreaking advancements in AI and so much more that is reshaping how and what developers build.
+
+Which I/O update has helped your development process the most? Share your thoughts below. ⬇️
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: I/O ;', 'ct: ; ;', 'gds:Yes;']",28,PT40S,3423,82,5
+O5Og53fTkj8,Can you beat our time solving the green world? #GoogleIO,2025-04-03T01:00:30Z,"Think you’ve mastered the #GoogleIO puzzle?  Watch as we bend light to solve the green world challenge. How fast can you do it?
+
+Give it a shot and drop your time in the comments. 🕹️
+
+Resources: 
+Try the puzzle here → https://goo.gle/iopuzzle-yt
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Meg Bauman 
+Products Mentioned: Gemini, Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Explore;', 'Campaign: ;', 'Video Type:G4D SV: I/O ;', 'ct: ; ;', 'gds:Yes;']",28,PT1M6S,4923,100,3
+y-jRGYnDgfM,Pushing the capabilities of Gemma 3 via distillation and RL fine-tuning,2025-04-02T16:01:19Z,"Specialized capabilities (e.g. math abilities, coding, multilinguality, tool use...) are key areas of improvement in post-training. In this talk we explore a novel strategy involving large-scale distillation and RL finetuning to push specialized capabilities in LMs while still improving their generality. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Johan Ferret
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT8M47S,1834,61,5
+tfPtsV-9buc,Welcome to the Gemmaverse,2025-04-02T16:01:17Z,"The Gemma family of open models keeps evolving, offering developers powerful tools for building a wide range of AI applications. In this session we'll explore the Gemmaverse, the vibrant Gemma ecosystem made of over 60,000 projects built by developers like you. We'll highlight innovative research and community efforts to fine tune LLMs for a wide range of languages of the world. 
+
+Learn more at https://ai.google.dev/gemma/gemmaverse
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Omar Sanseviero
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT6M35S,2917,87,3
+nvm-4x7g2Ao,Gemma on mobile and web. Best and worst practices,2025-04-02T16:01:08Z,"Come learn new methods and best practices for bringing Gemma to Mobile and Web. LLM powered applications are the next frontier. Using MediaPipe and LiteRT, integrate Gemma into apps with the amazing performance and ease.
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Mark Sherwood
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT13M55S,9070,303,15
+ichL9eGGMNQ,ShieldGemma 2 – Developing safe and responsible AI for images,2025-04-02T16:01:04Z,"Responsible AI development in multimodal contexts requires robust image safety classifiers.  Explore our model for classifying images as ""safe"" or ""unsafe"" across key safety categories, which effectively moderates generated images (from any image generation model) and real images (e.g. an image input to a Vision-Language Model), enabling safer use of image generation and VLMs. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speakers: Dana Kurniawan, Wenjun Zeng
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT6M40S,456,19,2
+jiDEnKYY_l8,Integrating the Gemma model family in Transformers,2025-04-02T16:01:04Z,"Arthur Zucker, Head of Transformers at Hugging Face, explores in this talk the integration of Gemma into the Transformers framework. Explore how techniques like LoRA and model sharding can tailor Gemma for specific needs within this environment. Learn how to effectively leverage Gemma's power and versatility using Transformers.
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Arthur Zucker
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT14M51S,826,31,2
+lyf3Fe-MsWU,RLHF for finer alignment with Gemma 3,2025-04-02T16:01:00Z,"How to best align a model for human interaction? In RLHF we first learn a proxy for the human preferences: the reward model (RM), that is later used to align a language policy. Yet the RM is an imperfect approximator of human preferences, and its prolonged usage leads inevitably to reward hacking. In this presentation we’ll review techniques developed in Gemma to mitigate this hacking and allow for longer training. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Louis Rouillard
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT10M21S,377,14,0
+ZApQsYuzz2s,Open models and open compression,2025-04-02T16:00:47Z,"Open sourced AI models have played a major role paving the way to the current AI landscape. Their growing size has further motivated the development of compression techniques to enable efficiently serving them. However, these techniques can be cumbersome to leverage and implement. In this presentation, you'll discover all the efforts that were made to make Gemma as efficient as possible without compromising on the performances while preserving compatibility with the most trending AI model libraries from the open source community. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Edouard YVINEC
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT8M37S,354,13,0
+_fMFb2Lv7rI,SynthID – Watermarking and identifying AI-generated text,2025-04-02T16:00:47Z,"SynthID watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video. In this talk we will explore SynthID for text, how it works, its open source implementation in HuggingFace Transformers and how to configure and deploy it. Learn how SynthID helps mitigate risks associated with AI-generated content.
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Tatiana Matejovicova
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT7M52S,915,43,2
+Sgmye159YQI,A truly multilingual Gemma 3,2025-04-02T16:00:39Z,"Building multilingual AI applications is crucial for reaching global audiences, and varied language proficiency remains a top developer priority. In this talk, we’ll explore the training strategies applied to make Gemma 3 fluent in over 100 languages, and showcase its state-of-the-art performance on multilingual tasks. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Adi Mayrav Gilady
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT9M2S,682,21,0
+S2C5rZ9WG-U,PaliGemma – Making Gemma 2 see by adding a vision encoder,2025-04-02T16:00:38Z,"Explore how PaliGemma adds a SigLIP vision encoder to Gemma 2. This model is pre-trained on captioning, question answering, object detection, and even segmentation. Varying image resolution and model size allows to scale the compute by a factor of 155. If you have data available for your task, fine-tuning PaliGemma will result in great performance, especially on text-related tasks.
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Andreas Steiner
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT10M35S,392,22,1
+Qwfsj-oM_CE,Gemma 3 architecture and design,2025-04-02T16:00:37Z,"Discover how with Gemma 3, we have tried to push many of the limits of what makes a model usable and practical.  
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Alek Andreev
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT9M36S,1406,52,0
+L0uxfZMlkag,LeRobot – Lowering the entry barrier to AI for robotics,2025-04-02T16:00:35Z,"Explore LeRobot with Remi Cadene, Principal  Research Scientist at Hugging Face. LeRobot is an open-source library of Hugging Face written in Python that aims to accelerate research and development in robotics. It contains pretrained models, crowdsourced datasets, and simulation environments, but also tools to record data on real robots and control them end-to-end with Vision-Language-Action models (VLA) based on PaliGemma. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Remi Cadene
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT14M55S,37460,1481,43
+LdwSzzSnspM,Welcome to Gemma 3,2025-04-02T16:00:35Z,"Discover the latest advancements in Gemma, Google's family of lightweight, state-of-the-art open models. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Tris Warkentin 
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT12M26S,8787,351,38
+FagNt06rSBk,Deepdive into Gemma 3,2025-04-02T16:00:29Z,"Explore the technical foundations of Gemma 3. Hear how the Gemma research team unveil the architecture, design principles, and innovations behind Google's family of lightweight, state-of-the-art open models.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Aishwarya Kamath, Cassidy Hardin, Shreya Pathak, Robert Dadashi, Léonard Hussenot , Geoffrey Cideron
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT26M48S,22848,556,34
+7q2ulB0dhMk,Using and fine-tuning Gemma 3,2025-04-02T16:00:16Z,"Explore how you can use and fine-tune Gemma 3 with techniques like LoRA and model sharding to taylor Gemma for your specific needs. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Etienne Pot
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT9M27S,6116,156,6
+4o28n0MzYTA,Live demo: Gemma 3 on Jetson Orin Nano,2025-04-02T16:00:06Z,"Learn from Asier Arranz, Senior Developer Advocate at NVIDIA, how to easily get started with Gemma on a Jetson Orin device. 
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speaker: Asier Arranz
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT18M13S,4378,137,8
+16gVylZniJE,Building intelligent agents with Gemma 3,2025-04-02T16:00:04Z,"Explore the development of intelligent agents using Gemma models, with core components that facilitate agent creation, including capabilities for function calling, planning, and reasoning. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Kathleen Kenealy 
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT10M10S,26917,879,21
+27PKr0T3gXM,Leveraging large-scale models for efficient learning,2025-04-02T16:00:03Z,"Struggling to improve your model's performance without increasing its size, even after exhaustive data scraping and architectural tweaks?  If you have access to a larger, well-performing model and the resources to train it, knowledge distillation could be the answer.  This technique leverages a strong model to guide the training of a smaller one, leading to improved learning and faster convergence.  This presentation offers a brief overview of knowledge distillation and its key benefits.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Morgane Rivière
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:N/A;']",28,PT8M9S,904,35,1
+-bc111vJWQo,Panel: The importance of open models,2025-04-02T16:00:00Z,"Discover the importance of open models in a conversation with Marzieh Fadaee, Senior Research Scientist at Cohere for AI, Laurent Mazare, CO-Founder and CTO of Kyutai and Tris Warkerin, Direct of Product at Google DeepMind.
+
+Subscribe to Google for Developers → https://goo.gle/developers  
+
+#Gemma #GemmaDeveloperDay 
+
+Speakers: Marzieh Fadaee, Laurent Mazaré, Tris Warkentin, Gus Martins (moderator)
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Gemma;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:N/A;']",28,PT28M19S,270,23,2
+qcjrduz_YS8,Which Gemma version is the right one for you?,2025-04-01T20:03:27Z,"Unlock the power of Google's Gemma 3 by selecting the right model for your project. Learn about the capabilities of each Gemma 3 size (27b, 12b, 4b, and 1b) and how to choose between pre-trained and instruction-tuned versions.
+
+Chapters:
+0:00 Introduction
+0:44 - Model sizes
+1:10 - Use cases
+2:22 - Pre-trained model or instruction tuned model
+
+Resources:
+Gemma docs → https://goo.gle/4hL87v2 
+Gemma cookbook → https://goo.gle/4l4BY4K
+
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Ravin Kumar
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Google AI for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:Yes;', 'Series: Gemma3 Launch', 'developer', 'google developers', 'AI', 'Gemma', 'ct: AIG;']",28,PT4M12S,8443,358,20
+TAlkGTAj87M,Summarize research papers with Gemma,2025-04-01T16:00:49Z,"See Google's Gemma 3 in action as it summarizes and analyzes popular research papers. This video highlights Gemma's ability to handle long contexts, extract key information, and provide translations, streamlining the research process and making scientific insights more accessible.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Tatiana Matejovicova
+Products Mentioned: Gemma","['Google', 'developers', 'pr_pr: Google AI for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'gds:Yes;', 'Series: Gemma3 Launch', 'ct: AIG;']",28,PT4M19S,13641,564,43
+VqoYtNEm5QY,Can we… get this meeting started?,2025-03-31T23:05:30Z,"Trying to get the meeting rolling while catching the entire weekend recap. 😬
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT21S,5130,68,3
+ExPVjaz_zAs,Can you spot the two issues with how we’re counting active users? Go!,2025-03-31T13:00:19Z,"Greetings, developers! Ready for a SQL challenge? This query is meant to find meeting rooms where all scheduled meetings run longer than 30 minutes, but something's not quite right. What happens when we run this code? Can you spot what's wrong with this subquery? Share your solution in the comments below!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Amanda Stanton","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ;;', 'gds:Yes;']",28,PT22S,8452,134,19
+dfaLvDkJ8rQ,Phantom bugs: turning devs into accidental heroes.,2025-03-29T04:00:35Z,"When phantom bugs make you look like the smartest dev in the room. It’s a win. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT30S,12178,188,7
+KXiLPnZdcZI,Launching Gemini 2.5,2025-03-28T21:09:19Z,"Tulsee Doshi, Head of Product for Gemini Models joins host Logan Kilpatrick for an in-depth discussion on the latest Gemini 2.5 Pro experimental launch. Gemini 2.5 is a well-rounded, multimodal thinking model, designed to tackle increasingly complex problems. From enhanced reasoning to advanced coding, Gemini 2.5 can create impressive web applications and agentic code applications. Learn about the process of building Gemini 2.5 Pro experimental, the improvements made across the stack, and what’s next for Gemini 2.5.
+
+Resources:
+Gemini → https://goo.gle/41Yf72b 
+Gemini 2.5 blog post → https://goo.gle/441SHiV 
+Examples of Gemini’s 2.5 Pro Experimental game design skills →  https://goo.gle/43vxkq1 
+Examples of Gemini 2.5 Pro Experimental in Google AI Studio → https://goo.gle/4c5RbhE 
+
+Listen to this podcast: 
+Apple Podcasts → https://goo.gle/3Bm7QzQ 
+Spotify → https://goo.gle/3ZL3ADl 
+
+Chapters:
+0:00 - Introduction
+1:05 - Gemini 2.5 launch overview
+3:19 - Academic evals vs. vibe checks
+6:19 - The jump to 2.5
+7:51 - Coordinating cross-stack improvements
+11:48 - Role of pre/post-training vs. test-time compute
+13:21 - Shipping Gemini 2.5
+15:29 - Embedded safety process
+17:28 - Multimodal reasoning with Gemini 2.5
+18:55 - Benchmark deep dive
+22:07 - What’s next for Gemini
+24:49 - Dynamic thinking in Gemini 2.5
+25:37 - The team effort behind the launch
+
+
+Speaker: Logan Kilpatrick, Tulsee Doshi
+Products Mentioned: Gemini, Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:Podcast;', 'ct: AIG;;', 'gds:Yes;']",28,PT27M56S,31136,1121,125
+htCPIPFQwGk,Who will be crowned the I/O Puzzle champ?,2025-03-28T16:08:15Z,"Speed, strategy, and a whole lot of focus – that’s how you win the crown. 👑
+
+Think you can win? → https://goo.gle/iopuzzle-yt 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google I/O 
+
+#GoogleIO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: I/O ;', 'ct: ; ;', 'gds:Yes;']",28,PT53S,3365,84,3
+-3pdAavNepg,"Look Ma, no keys! Signing JWTs with the Google Cloud API",2025-03-27T16:39:19Z,"Ditch the key-management headaches! Ever wished you could sign JWTs without juggling sensitive keys? In this session we're going to show you exactly how to do it. We'll unleash the power of Google Cloud APIs, revealing a cleaner, more secure way to generate those crucial JWTs. Whether you're signing Google Wallet passes, building microservices, or anything in between, you'll walk away with the skills to supercharge your security and simplify your workflow.",[],28,PT38M28S,2633,72,4
+_rAwVXaaCtE,Just in from the news desk 📰: The next generation of AI with Gemma 3,2025-03-27T16:08:28Z,"Build the next generation of AI with Gemma 3, the biggest update yet to Google's open models! Gemma 3 is faster, more portable, and designed to run on a single GPU or TPU. Enjoy 2.5x better performance and expanded multilingual support for over 140 languages. 
+
+Try out Gemma 3 → https://goo.gle/3FD0cmt 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+Products Mentioned: Gemma, Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:G4D SV: Educational ;', 'ct: AIG; ;', 'gds:Yes;']",28,PT59S,2824,168,3
+LJt-4r3C-HI,"Good thing we check our code before reviews, right?",2025-03-27T04:00:14Z,"We’ve all been there – painstakingly reviewing code, only to miss the obvious. Every line teaches a lesson!
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT16S,5628,126,4
+wpEpYWdwZnk,A hotkey you can’t live without?,2025-03-26T04:00:45Z,"Hotkeys aren’t just shortcuts, they’re survival skills. From CTRL + Z to Command D, devs know the real power moves. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT34S,5817,156,10
+OmK-l8fR90w,"Announcing Gemma 3, Flutter 3.29, GDC '25, and more! - Google Developer News March 2025",2025-03-24T16:00:33Z,"Welcome to the Developer Show! This month, we’ve got some exciting updates. Grab a cup of coffee and your favorite seat because we're diving deep into the latest news and updates for Google developers, including the new Gemma 3 AI model, Flutter 3.29 and Dart 3.7, and so much more!
+
+Chapters:
+
+0:00 - Intro 
+0:20- Gemma 3 → https://goo.gle/3DRnNiA  
+1:35 - Gemini Code Assist → https://goo.gle/3FzFyDM 
+2:09 - PaliGemma 2 Mix → https://goo.gle/4c5NOY7 
+2:44 - Flutter & Dart  → https://goo.gle/3FzKicy  and https://goo.gle/4iAKuX9 
+3:05 - Game Developers Conference (GDC) → https://goo.gle/49v28aJ  
+3:56 - Android product launch for Google Play 
+4:55 - Cloud Next '25 → https://goo.gle/3FCpoJH 
+5:50 - Outro
+
+Resources:
+
+Watch more Google Developer News → https://goo.gle/4e8Rysd  
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+#GoogleDeveloperNews 
+
+Speaker: Megan Mehta
+Products Mentioned: Google AI, Gemma,  Generative AI, Flutter, Android,","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:Dev News;', 'ct: AIG;;', 'gds:Yes;']",28,PT6M10S,6243,258,23
+OzRCW0u4Zsg,Can you spot the two issues with how we’re counting active users? Go!,2025-03-24T13:09:14Z,"Is your user analytics query telling the whole story?  This SQL developer challenge reveals a common mistake in counting active users. Can you spot what's making the numbers look lower than they should be?
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+Speakers: Amanda Stanton","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ;;', 'gds:Yes;']",28,PT26S,3812,139,17
+ggLm1z4veIE,Just in from the news desk 📰: Big things that happened at Game Developer Conference!,2025-03-21T17:34:09Z,"GDC 2025 is here, and Google has brought some big updates for game developers. See what updates Google brought in for game developers, including Gemma 3 AI integration and new tools for Android and Play.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Gemma, Google AI, GDC","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:G4D SV: Educational ;', 'ct: AIG; ;', 'gds:Yes;']",28,PT48S,2957,180,3
+Yk-Ju-fqPP4,"Gemini app: Canvas, Deep Research and personalization",2025-03-20T16:00:34Z,"Dave Citron, Senior Director of Product Management with the Gemini team, joins host Logan Kilpatrick for an in-depth discussion on the latest Gemini updates and demos. Learn more about Canvas for collaborative content creation, enhanced Deep Research with Thinking Models and Audio Overview and a new personalization feature.
+
+Resources:
+Use the Gemini app→ https://goo.gle/41Yf72b 
+
+Listen to this podcast: 
+Apple Podcasts → https://goo.gle/3Bm7QzQ 
+Spotify → https://goo.gle/3ZL3ADl 
+
+Chapters:
+0:00 - Introduction
+0:59 - Recent Gemini app launches
+2:00 - Introducing Canvas 
+5:12 - Canvas in action
+8:46 - Canvas examples
+12:02 - Enhanced capabilities with Thinking Models
+15:12 - Deep Research in action
+20:27 - The future of agentic experiences 
+22:12 - Deep Research and Audio Overviews
+24:11 - Personalization in Gemini app
+27:50 - Personalization in action
+29:58 - How Personalization works: user data and privacy
+32:30 -The future of Personalization
+
+
+Speaker: Logan Kilpatrick, Dave Citron
+Products Mentioned: Gemini, Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:Podcast;', 'ct: AIG;;', 'gds:Yes;']",28,PT36M54S,46522,1405,90
+zSB9g_E3FE8,Debugging tips from devs,2025-03-20T04:00:54Z,"Sometimes the best debugging strategy is... to stop debugging. 😌🧘
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT59S,4626,155,15
+_GYgrWe_qDA,Collect payments on Android with Checkout.com and Google Pay,2025-03-19T16:47:51Z,"In this Google Pay livestream, we’ll integrate Checkout.com and Google Pay and use it to collect payments on a basic Android application. The integration will be based on the most widely preferred path by developers.
+
+Connect with us:
+
+Join the conversation in the #payments channel on Discord → https://goo.gle/payments-dev-community 
+Watch more Live Google Pay integrations on Android → https://goo.gle/live-google-pay  
+Follow @GooglePayDevs on X for more content like this → https://goo.gle/GooglePayDevs   
+Subscribe to Google for Developers → https://goo.gle/developers   
+
+Get support: 
+
+For assistance with your implementation, create a support ticket from the Google Pay & Wallet Console →  https://goo.gle/4g36MQn 
+
+Speaker: Dominik Mengelt, Jose Ugia, Fabio Insolia, Chintan Soni, Sunghun Jung, Jheng-Hao Lin
+Products Mentioned: Google Pay
+
+#GooglePay #Android #payments #developer",[],28,PT47M6S,3022,113,5
+FZaIyix2XXc,Use Gemini as a coding assistant!,2025-03-17T16:00:28Z,"Level up your coding skills with Gemini! In this video, I'll show you how to use Gemini as a powerful AI coding assistant to write code faster, debug more efficiently, and learn new programming concepts.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Gemini,  Google AI Studio","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT59S,10831,756,20
+fys-Rr6eoKo,Building a travel buddy with Gemma,2025-03-13T20:00:31Z,"In this video I’m going to show you how I used the new Gemma’s multi-turn, multimodal and multilingual capabilities to build a travel buddy.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker name: Aishwarya Kamath
+Products Mentioned: Gemma, Google AI","['Google', 'developers', 'pr_pr: Google AI for Developers;', 'Purpose: Learn;', 'Video Type:DevByte;', 'ct: ; ;', 'gds:Yes;']",28,PT2M52S,10335,312,31
+BgWO2iVPlyw,What’s new in ShieldGemma 2?,2025-03-12T15:59:04Z,"We’re excited to introduce you to ShieldGemma 2, a model that checks the safety of your generated and real images against key categories to help you build robust datasets and models.
+
+Resources: 
+Learn more about ShieldGemma model card → https://goo.gle/4bzP0Te 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Dana Kurniawan, Wenjun Zeng 
+Products Mentioned: Gemma, Google AI","['Google', 'developers', 'pr_pr: Google AI for Developers;', 'Purpose: Influence;', 'Video Type:DevByte;', 'gds:Yes;', 'Purpose: Learn;', 'ct: ; ;']",28,PT2M27S,9829,244,16
+UU13FN2Xpyw,What’s new in Gemma 3?,2025-03-12T07:31:27Z,"We're excited to introduce Gemma 3 – the latest generation of open models from Google. Watch this video to learn more about all the new capabilities we’ve added to Gemma.
+
+Resources:
+Learn about Gemma→ https://goo.gle/4dkfnMd 
+Gemma documentation → https://goo.gle/3QQrwQh 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Gus Martins
+Products Mentioned: Gemma, Google AI","['Google', 'developers', 'pr_pr: Google AI for Developers;', 'Purpose: Influence;', 'Video Type:DevByte;', 'ct: Please Select Please Select', 'gds:Yes;']",28,PT4M21S,158925,4838,285
+I-4GShiD1yY,Different bugs. Different reactions.,2025-03-11T04:00:22Z,"Perspective is everything. How do you handle bugs? 🐛
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT13S,3363,120,7
+zmg41WdIz30,What separates a junior engineer from a senior engineer?,2025-03-10T16:01:11Z,"Ever wonder what really sets senior engineers apart? It's not just about individual coding prowess. Google Engineer Ethan Hsu shares a key habit: proactively identifying and solving problems for the entire team. Level up your impact by thinking beyond your own projects and focusing on team-wide bottlenecks. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Ethan Hsu","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: AIG; ;', 'gds:Yes;']",28,PT32S,4652,220,9
+Bj7ODzcNSHY,Tracking Google Wallet Pass Usage with API Callbacks,2025-03-07T18:19:06Z,"How many of your Google Wallet passes are actually out there or being used? Go beyond simple issuance and learn how to track pass lifecycle events using Google Wallet API callbacks. This session is your guide to using the Google Wallet API's callback feature for accurate pass counting. We'll cover the essentials: setting up your callback URL, understanding the data Google sends when a pass is added or deleted, and implementing server-side logic to maintain a real-time count. Get practical tips and insights to start tracking your pass inventory effectively today.",[],28,P0D,0,0,0
+r5MNicB-R0E,“Im just a lil guy” 🐕,2025-03-07T17:01:09Z,"His git push is a mess, but you can't stay mad at this lil guy. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'gds:Yes;']",28,PT9S,5361,157,8
+2b3CMZG8uHo,Fact: The only good bug is a squashed bug,2025-03-07T05:00:02Z,"Google Developers can take any bug!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Laura Radovolsky Carroll","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT6S,4197,86,7
+y1k-n4gt9j4,Just in from the news desk 📰: Release of Flutter 3.29 and Dart 3,2025-03-06T17:11:27Z,"Stay up-to-date with the latest in Flutter and Dart! This week's Google Developer News Bytes covers smoother transitions, better platform support, and the revamped code formatter in the newest updates. Discover how these improvements make Flutter even better for iOS development and boost performance across Android devices.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'type:G4D SV: Educational ;', 'ct: AIG; ;', 'gds:Yes;']",28,PT1M6S,2710,118,17
+ahcLRBnmKkU,Guess unplugging is the last option…,2025-03-06T05:00:06Z,"Sometimes, getting out of VIM requires thinking outside the box. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: M.E Francis","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT12S,10382,389,26
+D77mP4ewqsY,Can you identify potential issues with this utility function? Go!,2025-03-03T14:00:24Z,"Ready for a TypeScript challenge? Safely accessing nested object properties can be trickier than it seems. Take a look at our code snippet, spot the issues, and share your solutions. Let’s discuss best practices for handling these edge cases! 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: M.E. Francis","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Educational ;', 'ct: ; ;', 'gds:Yes;']",28,PT19S,2118,77,11
+V97HobggsvI,Just in from the news desk 📰: Google AI Developers Community Spotlight Contest,2025-02-28T02:00:26Z,"Are you building something amazing with Google AI? This is your chance to share your work with the world and win global recognition! We're looking for creative, complex, and impactful Al projects built with Gemini API, Gemma, and more. Join the Google AI Developers Community Spotlight Contest and showcase your talent.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Juan Vasquez
+Products Mentioned: Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'type:G4D SV: Educational ;', 'gds:Yes;']",28,PT1M24S,2185,99,7
+0aeb3zsLGwU,The 3 moods of coding ™️,2025-02-27T05:00:00Z,"Coding has all the moods. What did we miss?
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'Video Type:G4D SV: Vs. content ;', 'ct: Please Select Please Select', 'gds:Yes;']",28,PT17S,5213,181,13
+gZt3h0u5Dj0,Ever feel like some people over-use the ellipses?,2025-02-26T05:00:39Z,"Why use a period when you can use an ellipsis…? You know? 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Video Type:G4D SV: Product Featured ;', 'ct: ; ;', 'gds:Yes;']",28,PT24S,4007,111,19
+35KhiPRvF88,Developing Google DeepMind's Thinking Models,2025-02-24T20:00:01Z,"Jack Rae, Principal Scientist at Google DeepMind, joins host Logan Kilpatrick for an in-depth discussion on the development of Google’s thinking models. Learn more about practical applications of thinking models, the impact of increased 'thinking time' on model performance and the key role of long context.
+
+Chapters:
+0:00 - Intro 
+01:14 - Defining Thinking Models
+03:40 - Use Cases for Thinking Models
+07:52 - Thinking Time Improves Answers
+09:57 - Rapid Thinking Progress
+20:11 - Long Context Is Key
+27:41 - Tools for Thinking Models
+29:44 - Incorporating Developer Feedback
+35:11 - The Strawberry Counting Problem
+39:15 - Thinking Model Development Timeline
+42:30 - Towards a GA Thinking Model
+49:24 - Thinking Models Powering AI Agents
+54:14 - The Future of AI Model Evals
+
+Resources: 
+
+Listen to this podcast: 
+Apple Podcasts → https://goo.gle/3Bm7QzQ 
+Spotify → https://goo.gle/3ZL3ADl 
+
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speakers: Jack Rae, Logan Kilpatrick
+Products Mentioned: Gemini, Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:Podcast;', 'ct: AIG;;', 'gds:Yes;']",28,PT1H3M33S,11719,425,37
+oNmQwcdepAE,What’s wrong with this TypeScript function? Go!,2025-02-24T14:01:03Z,"Calling all TypeScript enthusiasts!  Here’s a challenge: this function is meant to capitalize the first letter of each word in a string, but something’s not quite right. Can you find the bug and propose a fix? 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: M.E. Francis","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:G4D SV: Educational ;', 'gds:Yes;']",28,PT18S,2136,70,21
+qJiaXmDDF-I,Sliding into solitude mode after a call like…,2025-02-21T20:00:36Z,"Post-call recovery mode: every introverted developer knows it. 😴
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Video Type:G4D SV: Comedic skits;', 'gds:Yes;']",28,PT12S,8425,287,27
+VdEMJTRDvVg,"Google I/O, the Google Chrome Built-in Al Challenge, and more! - Google Developer News February 2025",2025-02-21T00:00:24Z,"There’s a ton coming up this month in Google developer news! We’re getting hyped for Google I/O and registration for Cloud Next. There’s news from the Google Chrome Built-in Al Challenge. In the world of Google AI, we’ll see what new levels of realism and creative freedom are here with Veo and Imagen 3 and the latest availability for Gemini 2.0. And there’s so much more! Tune in to this episode to see what’s top news for the latest in developer tech from Google.
+
+Chapters:
+
+0:00 - Introduction
+0:14 - Google I/O 2025
+1:01 - Google Chrome Built-in AI Challenge
+1:30 - Veo & Imagen 3
+2:08- Google Cloud Next '25
+2:33 - Gemini 2.0 Flash & Flash-Lite
+3:12 - Google Al Developers Community Spotlight Contest
+3:47 - LLM Apps: Evaluation
+4:04 - Android Studio 10th Anniversary
+4:16 - Wrap up
+
+Watch more Google Developer News → https://goo.gle/4e8Rysd  
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+#GoogleDeveloperNews 
+
+Speaker: Yakir Yehuda, Dio Gado
+Products Mentioned: Gemini 1.5 Pro, Responsible AI,  Android, Google Cloud, Google Chrome, Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Video Type:Dev News;', 'ct: AIG;;', 'gds:Yes;']",28,PT4M40S,6251,134,18
+6_gK5KvlmGg,Level up your Google Wallet integration: Pass sharing best practices for developers,2025-02-20T17:42:18Z,"Ready to take your Google Wallet sharing game to the next level? Join us LIVE as we dive deep into best practices for creating and sharing passes. We'll cover everything from pre-creating passes with the API, creating embedded passes in JWTs, sharing multiple passes, and more! This session is packed with practical tips and tricks specifically for developers, including code examples and Q&A. Get your questions ready! 
+
+Resources:
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet","['Purpose: Learn;', 'Video Type:Livestream;', 'ct: ;;', 'gds:Yes;', 'pr_pr: Pay (incl Wallet);']",28,PT40M18S,2338,73,7
+7rhFu8QcUbc,Push anxiety be like …,2025-02-20T05:00:08Z,"Before hitting ""push,"" every dev knows the mix of excitement and anxiety. 
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Influence;', 'Campaign: ;', 'Video Type:G4D SV: Comedic skits;', 'ct: ; ;', 'gds:Yes;']",28,PT30S,2577,113,10
+qvOm3_3wV80,Just in from the news desk 📰: Omniaudio 2.b is here!,2025-02-19T05:00:45Z,"Omniaudio is bringing powerful on-device audio understanding to your application. Watch this snippet to see how you can make your user interface more responsive and conversational!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Bri Davis
+Products Mentioned: Google AI","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'Campaign: ;', 'type:G4D SV: Educational ;', 'gds:Yes;']",28,PT1M,1336,57,11
+spRadqVmZxk,Coffee. Code. Campus. That #DevFest Bronx energy! ✨,2025-02-18T17:01:08Z,"There's nothing better than developers coming together to learn and connect. See what #DevFest Bronx had in store for its devs. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: M.E Francis 
+Products Mentioned: Gemini","['Google', 'developers', 'pr_pr: Google Developer Groups;', 'Purpose: Learn;', 'Video Type:Dev Story;', 'gds:Yes;']",28,PT23S,1686,43,3
+o5-qQ4B8CNU,Just in from the news desk 📰: Google I/O’s Prism Shift,2025-02-13T17:00:57Z,"We’re starting the hype for Google I/O 2025 by releasing Prism Shift – a game where you’ll move mirrors to direct lasers into the target. Keep an eye out for the dev and I/O references while you try to crack each level!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Tushara Langulya Balabolu
+Products Mentioned: Google IO","['Google', 'developers', 'pr_pr: Google for Developers;', 'Purpose: Learn;', 'type: G4D SV: Educational;', 'gds:Yes;']",28,PT43S,3125,115,3
+Vb_6WMVsQ7E,"Cloud Run, App Engine, and Cloud Functions for data processing!",2025-02-11T05:00:22Z,"Where should you run your code, analyze your data, and store it? Wesley Chun, speaker at this year’s #DevFest, has three tools that make starting with Google Cloud effortless. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Google Cloud","['Google', 'developers', 'Purpose: Learn;', 'Campaign: ;', 'type:Social First - Educational;', 'gds:Yes;', 'pr_pr: Google Developer Groups;']",28,PT35S,1650,60,2
+JIXdzfVws50,How do YOU pronounce GIF?,2025-02-10T17:00:20Z,"The age-old debate continues: Is it gif or is it gif? At DevFest Bronx, the opinions were stronger than ever. Where do you stand?
+
+Subscribe to Google for Developers → https://goo.gle/developers","['Google', 'developers', 'Purpose: Learn;', 'Campaign: ;', 'gds:Yes;', 'pr_pr: Google Developer Groups;', 'type:Social First - Pure entertainment;']",28,PT30S,6168,59,21
+O1qCsqOG38o,Too much CSV data 🤝 Gemini,2025-02-07T05:00:29Z,"Learn from Pooja Jain, speaker at #DevFest, on how to use Gemini to turn a massive dataset into actionable insights in seconds.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Products Mentioned: Gemini","['Google', 'developers', 'Purpose: Learn;', 'Campaign: ;', 'type:Social First - Educational;', 'gds:Yes;', 'pr_pr: Google Developer Groups;']",28,PT39S,3882,104,8
+frzE0zIKs4w,"Unlock more value with Google Wallet Passes: New upsells, links, and more!",2025-02-06T17:40:21Z,"Join us for a live deep dive into the latest Google Wallet feature: Value Added Opportunities! This livestream will explore how you can get more out of the passes your users save in Google Wallet, and how your business can leverage these features to reach more customers.
+
+With this feature, you’ll be able to provide you users convenient access to relevant offers, upgrades, and information directly from their saved passes.
+
+If you’re looking to maximize your users’ engagement with Google Wallet, this livestream is for you. Get all your questions answered live and discover how Value Added Opportunities can enhance your experience!
+
+Resources:
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet","['pr_pr: Pay;', 'Purpose: Learn;', 'gds:Yes;', 'Video Type:Livestream;']",28,PT38M51S,2529,71,3
+PupBvJqIEcY,"The key to better AI? Prioritize diversity, ethics, and inclusivity.",2025-02-04T00:00:15Z,"AI isn’t just “a computer.” 🤔 We’re debunking common myths and highlighting the human foundation that shapes AI at #DevFest with GDG Silicon Valley organizer Sakshi Gupta. Find her on LinkedIn!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Sakshi Gupta 
+Products Mentioned: Gemini","['Google', 'developers', 'Purpose: Learn;', 'type:Social First - Educational;', 'gds:Yes;', 'pr_pr: Google Developer Groups;']",28,PT48S,1806,40,3
+JRBTDmX-pXg,Can you efficiently figure out when this painting theft happened? Go!,2025-02-03T14:00:22Z,"Calling all problem-solvers: A museum guard needs to pinpoint the exact minute a painting was stolen from a 12-hour security recording. They can check one timestamp at a time, and it takes a minute per check. How would you approach this?
+
+Bonus: How does having two guards change things?
+Let’s see your solutions in the comments!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: M.E Francis","['Google', 'developers', 'Purpose: Learn;', 'Campaign: ;', 'type:G4D SV: Educational ;', 'gds:Yes;', 'pr_pr: Google for Developers;']",28,PT33S,3114,114,17
+85vwk-Sqa5E,Being a Great Google Summer of Code Mentor,2025-01-29T22:58:32Z,"Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT3M42S,2830,48,6
+sL5yfpoTZZo,Congrats! You're a Google Summer of Code Contributor!,2025-01-29T22:58:16Z,"Congratulations! You've been accepted as a GSoC contributor! Here's how you make the most of the experience. Listen for advice and tips from mentors on how to be successful in GSoC.
+
+(2022 update: we say student a lot in here, please ignore that and know we now mean GSoC Contributor!)
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT2M36S,1292,24,1
+6pSSTVUwGPM,How to Choose a Google Summer of Code Contributor,2025-01-29T22:57:54Z,"It's important to pick GSoC Contributors who are good a good fit for your organization. Learn about best practices and things to avoid.
+
+(2022 Update: Potential GSoC Contributors may have other commitments since they could be choosing a medium (~175 hour) or a large (~350 hour) project.)
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT2M42S,1539,27,1
+ciTOo8D2kTk,Google Summer of Code Mentor Summit,2025-01-29T22:56:05Z,"Get a look at the Google Summer of Code Mentor Summit. 
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT3M54S,699,10,0
+Wxjxwx7mqaI,An introduction to Google Summer of Code,2025-01-29T22:55:44Z,"New contributors to open source can apply to participate in Google Summer of Code. Spend 12+ weeks programming and learning about Open Source! 
+
+Resources: 
+For information about Google Summer of Code visit → https://g.co/gsoc
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT3M19S,45346,901,26
+EJFdPmFNIjk,GSoC Trailer,2025-01-29T22:55:25Z,"Check out our website for updates on the program → https://goo.gle/4jlty8i
+
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT31S,2641,30,0
+118H9_7xQGY,GSoC Program Overview,2025-01-29T22:55:11Z,"Check out our website for updates on the program → https://goo.gle/4jlty8i
+
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT5M4S,1770,18,1
+p6xdQInKZh8,GSoC: Zulip,2025-01-29T22:54:51Z,"In this video, meet the Zulip organization! 
+
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and get to know our mentoring organizations!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT2M47S,7382,90,2
+_3O0ukCY6D4,GSoC: Wikimedia Foundation,2025-01-29T22:54:34Z,"In this video, meet the Wikimedia Foundation! 
+
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and get to know our mentoring organizations!
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+ 
+Products Mentioned: Google Open Source","['Google', 'developers', 'gds:N/A;']",28,PT2M56S,1318,28,1
