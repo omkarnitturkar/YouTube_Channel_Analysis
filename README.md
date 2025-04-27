@@ -67,7 +67,7 @@ YOUTUBE_API_KEY=YOUR_ACTUAL_API_KEY
 ```bash
 streamlit run UI2.py
 ```
-
+## App Screenshot
 ![App Screenshot](https://github.com/omkarnitturkar/YouTube_Channel_Analysis/blob/feature/integration/Youtube_2.png)
 
 ## Security Note
