@@ -83,7 +83,7 @@ class YouTubeAnalyzer:
                     'Description': video['snippet']['description'],
                     'Tags': video['snippet'].get('tags', []),
                     'Category ID': video['snippet'].get('categoryId', ''),
-                    'Duration': video['contentDetails']['duration'],
+                    'Duration': video['contentDetails'].get('duration', 'PT0S'),
                     'Views': int(video['statistics'].get('viewCount', 0)),
                     'Likes': int(video['statistics'].get('likeCount', 0)),
                     'Comments': int(video['statistics'].get('commentCount', 0))
